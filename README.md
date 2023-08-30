@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kunalsadana20
 - 👀 I’m interested in the field of Data Science
-- 🌱 I’m currently pursuing PG Diploma in Data Science from IIIT Banglore via UpGrad
+- 🌱 Completed PG Diploma in Data Science from IIIT Banglore via UpGrad
+- Currently working as a Risk Analyst in CASHe.
 
 
 <!---
